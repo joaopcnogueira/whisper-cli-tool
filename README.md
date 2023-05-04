@@ -42,5 +42,5 @@ where my-audio.mp3 is your audiofile. The transcribed text will be saved into tr
 
 If you want to change arguments, let's say, change the response format from text to str, just do:
 ```
-$ whisper my-audio.mp3 --response-format str --language pt --outfile my-transcription.mp3
+$ whisper my-audio.mp3 --response-format str --language pt --outfile my-transcription.txt
 ```
